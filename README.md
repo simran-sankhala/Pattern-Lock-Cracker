@@ -13,3 +13,5 @@ Step 2 :
 ```sh
 $ python3 xpl.py ./gesture.key
 ```
+
+![](poc.png)
