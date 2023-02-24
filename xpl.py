@@ -17,7 +17,7 @@ def print_line(num):
 	print(f"| {num[0]} | {num[1]} | { num[2] } |")
 
 def print_gesture_path(positions):
-	print("\n\n Follow the Steps: ")
+	print("\n\n Found Pattern Sequence: ")
 
 	for x in range(3):
 		line = []
