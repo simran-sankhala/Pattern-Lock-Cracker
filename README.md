@@ -1,4 +1,5 @@
-![](https://images.idgesg.net/images/article/2021/12/android-security-100913715-large.jpg?auto=webp&quality=85,70)
+<div style="display:block;text-align:left"><img align="left" src="https://images.idgesg.net/images/article/2021/12/android-security-100913715-large.jpg?auto=webp&quality=85,70" border="0" style="width:156px;">
+
 # Pattern-Lock-Cracker
 this tool helps in solving android pattern lock bypass in CTFs
 
