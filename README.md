@@ -26,12 +26,12 @@ and that is the hash to be cracked .
 ### Where can I find the hash?
 The hash is stored at `/data/system/gesture.key`, and (From a rooted device) can be downloaded as follows:
 ```sh
-$ android-sdk-linux/platform-tools/adb pull /data/system/gesture.key
+$ adb pull /data/system/gesture.key
   0 KB/s (20 bytes in 0.071s)
 
 $ ls -l gesture.key
 -rw-r--r-- 1 simran simran 20 ago 21 17:45 gesture.key
-$
+
 ```
 
 ## Usage
