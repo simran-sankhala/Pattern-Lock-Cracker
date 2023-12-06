@@ -22,7 +22,9 @@ and can be repressented as follows (each digit represents a "ball"):
 -------------------
 ```
 
-So if you set the pattern lock to `0 -> 1 -> 2 -> 5 -> 4`, the SHA1 hash will be output of `SHA1("\x00\x01\x02\x05\x04")`, 
+So if you set the pattern lock to `0 -> 1 -> 2 -> 5 -> 4`
+
+the SHA1 hash will be output of `SHA1("\x00\x01\x02\x05\x04")`, 
 and that is the hash to be cracked .
 
 ### Where can I find the hash?
