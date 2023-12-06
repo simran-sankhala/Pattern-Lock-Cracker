@@ -9,7 +9,9 @@ Really, the pattern lock is the SHA1 hash sequence of digits (0-8) with length f
 Since Android does not allows the pattern to repeat "balls" and it does not use a salt when computing the SHA1 hash, 
 it really takes a very short period of time to crack the hash and get the pattern.
 
-The gesture board is a `3x3 matrix`, and can be repressented as follows (each digit represents a "ball"):
+The gesture board is a `3x3 matrix`
+
+and can be repressented as follows (each digit represents a "ball"):
 ```md
 -------------------
 | 0 |  | 1 |  | 2 |
