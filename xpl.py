@@ -5,7 +5,6 @@ from hashlib import sha1
 from itertools import permutations
 from time import time
 
-
 def print_info(message):
 	print("\n\033[1;33m[i]\033[0m", message, "\n")
 
