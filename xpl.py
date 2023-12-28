@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+# ctfs made easy
 
 import os
 from argparse import ArgumentParser
